@@ -16,7 +16,7 @@ This project is a front-end showcase demonstrating the power of utility-first CS
 * **Social Logins:** Includes UI for Google, Microsoft, Apple, and phone authentication.
 
 ## 🖼️ Preview
-**[▶️ View a Live Demo Here](https://nahiiiim.github.io/ChatGPT-login)** *(Replace with your GitHub pages link)*
+**[▶️ View a Live Demo Here](https://nahiiiim.github.io/ChatGPT-login)** 
 
 
 
