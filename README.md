@@ -17,7 +17,7 @@ This project is a front-end showcase demonstrating the power of utility-first CS
 
 ## 🖼️ Preview
 
-![Login Page Preview](https://nahiiiim.github.io/ChatGPT-login/)
+!https://nahiiiim.github.io/ChatGPT-login
 
 
 ## 🛠️ Getting Started
