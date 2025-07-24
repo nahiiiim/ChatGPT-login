@@ -1,4 +1,4 @@
-# ✨ ChatGPT Login Page✨
+# ChatGPT Login Page
 
 A stunning, pixel-perfect clone of the ChatGPT login page, meticulously crafted with modern web technologies.
 
@@ -14,10 +14,6 @@ This project is a front-end showcase demonstrating the power of utility-first CS
 * **High-Fidelity Clone:** Every detail, from spacing to font-weight, has been carefully matched.
 * **Pure HTML/CSS:** No JavaScript needed for this static page.
 * **Social Logins:** Includes UI for Google, Microsoft, Apple, and phone authentication.
-
-## 🖼️ Preview
-
-![Login Page Preview](https://imgur.com/a/sNwNEDu)
 
 ## 🛠️ Getting Started
 
