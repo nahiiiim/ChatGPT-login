@@ -15,6 +15,11 @@ This project is a front-end showcase demonstrating the power of utility-first CS
 * **Pure HTML/CSS:** No JavaScript needed for this static page.
 * **Social Logins:** Includes UI for Google, Microsoft, Apple, and phone authentication.
 
+## 🖼️ Preview
+
+![Login Page Preview](https://nahiiiim.github.io/ChatGPT-login/)
+
+
 ## 🛠️ Getting Started
 
 To view the page, simply download the `index.html` file and open it in your favorite browser.
